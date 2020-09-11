@@ -1,0 +1,58 @@
+basics:
+    - eggs
+    - milk
+    - butter
+    - bread
+    - oil
+    - cheese
+    - turkey
+    - yogurt
+    - seltzer
+    - orange juice
+veggies:
+    - lettuce
+    - tomato
+    - onion
+    - avocado
+    - carrots
+    - broccoli
+    - garlic
+    - mushrooms
+meat:
+    - chicken
+    - ground beef
+fruit:
+    - bananas
+    - apples
+condiments:
+    - steak sauce
+    - hot sauce
+    - mayo
+    - hummus
+    - dressing
+pantry:
+    - soup
+    - beans
+    - pasta
+    - rice
+    - oats
+    - cereal
+    - tea
+    - coffee
+    - marinara
+baking:
+    - vanilla
+    - baking powder
+    - baking soda
+    - salt
+    - pepper
+    - yeast
+    - sugar
+    - flour
+supplies:
+    - garbage bags
+    - dish pods
+    - paper towels
+    - dish soap
+    - cleaning spray
+    - coffee filters

@@ -1,0 +1,268 @@
+{
+    "Baking": {
+        "Baking Powder": {
+            "category": "Baking",
+            "item": "Baking Powder",
+            "status": 0
+        },
+        "Baking Soda": {
+            "category": "Baking",
+            "item": "Baking Soda",
+            "status": 0
+        },
+        "Flour": {
+            "category": "Baking",
+            "item": "Flour",
+            "status": 0
+        },
+        "Pepper": {
+            "category": "Baking",
+            "item": "Pepper",
+            "status": 0
+        },
+        "Salt": {
+            "category": "Baking",
+            "item": "Salt",
+            "status": 0
+        },
+        "Sugar": {
+            "category": "Baking",
+            "item": "Sugar",
+            "status": 0
+        },
+        "Vanilla": {
+            "category": "Baking",
+            "item": "Vanilla",
+            "status": 0
+        },
+        "Yeast": {
+            "category": "Baking",
+            "item": "Yeast",
+            "status": 0
+        }
+    },
+    "Basics": {
+        "Bread": {
+            "category": "Basics",
+            "item": "Bread",
+            "status": 0
+        },
+        "Butter": {
+            "category": "Basics",
+            "item": "Butter",
+            "status": 0
+        },
+        "Cheese": {
+            "category": "Basics",
+            "item": "Cheese",
+            "status": 0
+        },
+        "Eggs": {
+            "category": "Basics",
+            "item": "Eggs",
+            "status": 0
+        },
+        "Milk": {
+            "category": "Basics",
+            "item": "Milk",
+            "status": 0
+        },
+        "Oil": {
+            "category": "Basics",
+            "item": "Oil",
+            "status": 0
+        },
+        "Orange Juice": {
+            "category": "Basics",
+            "item": "Orange Juice",
+            "status": 0
+        },
+        "Seltzer": {
+            "category": "Basics",
+            "item": "Seltzer",
+            "status": 0
+        },
+        "Turkey": {
+            "category": "Basics",
+            "item": "Turkey",
+            "status": 0
+        },
+        "Yogurt": {
+            "category": "Basics",
+            "item": "Yogurt",
+            "status": 0
+        }
+    },
+    "Condiments": {
+        "Dressing": {
+            "category": "Condiments",
+            "item": "Dressing",
+            "status": 0
+        },
+        "Hot Sauce": {
+            "category": "Condiments",
+            "item": "Hot Sauce",
+            "status": 0
+        },
+        "Hummus": {
+            "category": "Condiments",
+            "item": "Hummus",
+            "status": 0
+        },
+        "Mayo": {
+            "category": "Condiments",
+            "item": "Mayo",
+            "status": 0
+        },
+        "Steak Sauce": {
+            "category": "Condiments",
+            "item": "Steak Sauce",
+            "status": 0
+        }
+    },
+    "Fruit": {
+        "Apples": {
+            "category": "Fruit",
+            "item": "Apples",
+            "status": 0
+        },
+        "Bananas": {
+            "category": "Fruit",
+            "item": "Bananas",
+            "status": 0
+        }
+    },
+    "Meat": {
+        "Chicken": {
+            "category": "Meat",
+            "item": "Chicken",
+            "status": 0
+        },
+        "Ground Beef": {
+            "category": "Meat",
+            "item": "Ground Beef",
+            "status": 0
+        }
+    },
+    "Pantry": {
+        "Beans": {
+            "category": "Pantry",
+            "item": "Beans",
+            "status": 0
+        },
+        "Cereal": {
+            "category": "Pantry",
+            "item": "Cereal",
+            "status": 0
+        },
+        "Coffee": {
+            "category": "Pantry",
+            "item": "Coffee",
+            "status": 0
+        },
+        "Marinara": {
+            "category": "Pantry",
+            "item": "Marinara",
+            "status": 0
+        },
+        "Oats": {
+            "category": "Pantry",
+            "item": "Oats",
+            "status": 0
+        },
+        "Pasta": {
+            "category": "Pantry",
+            "item": "Pasta",
+            "status": 0
+        },
+        "Rice": {
+            "category": "Pantry",
+            "item": "Rice",
+            "status": 0
+        },
+        "Soup": {
+            "category": "Pantry",
+            "item": "Soup",
+            "status": 0
+        },
+        "Tea": {
+            "category": "Pantry",
+            "item": "Tea",
+            "status": 0
+        }
+    },
+    "Supplies": {
+        "Cleaning Spray": {
+            "category": "Supplies",
+            "item": "Cleaning Spray",
+            "status": 0
+        },
+        "Coffee Filters": {
+            "category": "Supplies",
+            "item": "Coffee Filters",
+            "status": 0
+        },
+        "Dish Pods": {
+            "category": "Supplies",
+            "item": "Dish Pods",
+            "status": 0
+        },
+        "Dish Soap": {
+            "category": "Supplies",
+            "item": "Dish Soap",
+            "status": 0
+        },
+        "Garbage Bags": {
+            "category": "Supplies",
+            "item": "Garbage Bags",
+            "status": 0
+        },
+        "Paper Towels": {
+            "category": "Supplies",
+            "item": "Paper Towels",
+            "status": 0
+        }
+    },
+    "Veggies": {
+        "Avocado": {
+            "category": "Veggies",
+            "item": "Avocado",
+            "status": 0
+        },
+        "Broccoli": {
+            "category": "Veggies",
+            "item": "Broccoli",
+            "status": 0
+        },
+        "Carrots": {
+            "category": "Veggies",
+            "item": "Carrots",
+            "status": 0
+        },
+        "Garlic": {
+            "category": "Veggies",
+            "item": "Garlic",
+            "status": 0
+        },
+        "Lettuce": {
+            "category": "Veggies",
+            "item": "Lettuce",
+            "status": 0
+        },
+        "Mushrooms": {
+            "category": "Veggies",
+            "item": "Mushrooms",
+            "status": 0
+        },
+        "Onion": {
+            "category": "Veggies",
+            "item": "Onion",
+            "status": 0
+        },
+        "Tomato": {
+            "category": "Veggies",
+            "item": "Tomato",
+            "status": 0
+        }
+    }
+}

@@ -1,0 +1,21 @@
+body {
+    padding-top: 60px;
+}
+#container {
+    padding: 5px;
+}
+#header {
+    padding: 15px;
+}
+.grocery-group {
+    margin: 15px;
+}
+legend {
+    font-size: medium;
+    font-style: italic;
+    color: #616161;
+}
+/* Disable double-tap zoom on mobile */
+button {
+    touch-action: manipulation;
+}
